@@ -49,6 +49,7 @@ h2 {
 }
 
 input, select { 
+    outline-color: #48c5ce;
     width: 100%;
     box-sizing: border-box;
     padding: 10px;
